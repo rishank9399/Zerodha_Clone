@@ -1,15 +1,17 @@
 import React from 'react';
 import Navbar from '../Navbar';
+import Ticket from './Ticket';
 import Footer from '../Footer';
 
-function Signup() {
+function SupportPage() {
     return ( 
         <>
             <Navbar />
-            <h1>Signup</h1>
+            <Hero />
+            <Ticket />
             <Footer />
         </>
      );
 }
 
-export default Signup;
+export default SupportPage;
