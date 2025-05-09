@@ -1,14 +1,14 @@
 import React from 'react';
+import Ticket from './Ticket';
 import Hero from './Hero';
-import Team from './Team';
 
-function AboutPage() {
+function SupportPage() {
     return ( 
         <>
             <Hero />
-            <Team />
+            <Ticket />
         </>
      );
 }
 
-export default AboutPage;
+export default SupportPage;
