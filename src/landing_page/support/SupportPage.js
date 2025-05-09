@@ -1,15 +1,12 @@
 import React from 'react';
-import Navbar from '../Navbar';
 import Ticket from './Ticket';
-import Footer from '../Footer';
+import Hero from './Hero';
 
 function SupportPage() {
     return ( 
         <>
-            <Navbar />
             <Hero />
             <Ticket />
-            <Footer />
         </>
      );
 }
