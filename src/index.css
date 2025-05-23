@@ -25,3 +25,8 @@ code {
 .footer_links:hover {
   color: #387ed1;
 }
+
+#Support_hero {
+  background-color: #387ed1;
+  color: white;
+}

@@ -96,8 +96,6 @@ function Navbar() {
               </ul>
             </li> */}
           </ul>
-          <form class="d-flex" role="search">
-          </form>
         </div>
       </div>
     </nav>
