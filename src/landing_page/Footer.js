@@ -17,14 +17,14 @@ function Footer() {
               All rights reserved.
             </p>
             <br />
-            <a href="" className="pe-4 fs-5 text-muted"><i class="fa-brands fa-x-twitter"></i></a>
-            <a href="" className="pe-4 fs-5 text-muted"><i class="fa-brands fa-square-facebook"></i></a>
-            <a href="" className="pe-4 fs-5 text-muted"><i class="fa-brands fa-instagram"></i></a>
-            <a href="" className="pe-4 fs-5 text-muted"><i class="fa-brands fa-linkedin-in"></i></a>
+            <a href="" className="pe-4 fs-5 text-muted"><i className="fa-brands fa-x-twitter"></i></a>
+            <a href="" className="pe-4 fs-5 text-muted"><i className="fa-brands fa-square-facebook"></i></a>
+            <a href="" className="pe-4 fs-5 text-muted"><i className="fa-brands fa-instagram"></i></a>
+            <a href="" className="pe-4 fs-5 text-muted"><i className="fa-brands fa-linkedin-in"></i></a>
             <hr />
-            <a href="" className="pe-4 fs-5 text-muted"><i class="fa-brands fa-youtube"></i></a>
-            <a href="" className="pe-4 fs-5 text-muted"><i class="fa-brands fa-whatsapp"></i></a>
-            <a href="" className="pe-4 fs-5 text-muted"><i class="fa-brands fa-telegram"></i></a>
+            <a href="" className="pe-4 fs-5 text-muted"><i className="fa-brands fa-youtube"></i></a>
+            <a href="" className="pe-4 fs-5 text-muted"><i className="fa-brands fa-whatsapp"></i></a>
+            <a href="" className="pe-4 fs-5 text-muted"><i className="fa-brands fa-telegram"></i></a>
           </div>
           <div className="col">
             <p style={{color: "#424242"}} className="fs-5 fw-medium">Company</p>

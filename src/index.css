@@ -30,3 +30,8 @@ code {
   background-color: #387ed1;
   color: white;
 }
+
+.user-input::placeholder {
+  font-size: 1.2rem;
+  opacity: 0.4;
+}
